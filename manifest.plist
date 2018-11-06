@@ -24,7 +24,7 @@
 
             <key>url</key>
 
-            <string>http://47.88.219.149/Payload.ipa</string> // 软件安装包,安装包所在的服务器路径
+            <string>http://47.88.219.149/iosimg/Payload.ipa</string> // 软件安装包,安装包所在的服务器路径
 
         </dict>
 
