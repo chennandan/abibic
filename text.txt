@@ -1,4 +1,0 @@
-html下载界面
-通过浏览器访问下载plist地址提示证书无效,解决方式是通过提供一个下载的html解决,并且下载链接需要包含<a href='itms-services://?action=download-manifest&url=https://test.company.com.cn/download/test.plist'>下载</a>, itms-services://?action=download-manifest是固定不变的,url根据环境变化
-
-如果需要二维码的话,可以根据html下载页面生成二维码就ok.
